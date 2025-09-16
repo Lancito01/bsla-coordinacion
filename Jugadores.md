@@ -59,10 +59,10 @@ Acá se anotarán las replays que utilizan los jugadores en los partidos. Servir
 - Jiax
 	- [ ] Replay Global
 	- [ ] Replay Local
-- Matt
+- Matt ^5ce01c
 	- [ ] Replay Global
 	- [ ] Replay Local
-- arito
+- arito ^5fd41d
 	- [ ] Replay Global
 	- [ ] Replay Local
 - Cachorrao
