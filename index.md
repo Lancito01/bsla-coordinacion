@@ -11,6 +11,6 @@ Este documento se realiza con el objetivo de ayudarnos a nosotros los coordinado
 #### ¿Cómo reservo partidos?
 - Para reservar partidos se debe revisar el calendario, ubicado en /Calendario
 #### Tengo otra duda sobre la página/partidos
-- Por favor consultar con [@lancito01]() en Discord.
+- Por favor consultar con [@lancito01](https://discord.com/users/376153068821020675) en Discord.
 
 [^1]: [Página web de Obsidian](https://obsidian.md/).
