@@ -1,0 +1,91 @@
+# Replays
+Acá se anotarán las replays que utilizan los jugadores en los partidos. Servirá para recordar si los jugadores ya utilizaron sus replays.
+
+>[!warning] Replays
+>Las replays se marcan por si *ya la utilizaron* o *no la utilizaron*. Es decir, si hay un tick en Replay Global, significa que ya la utilizaron.
+### Bracket A
+- Mteoo
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Agusfn
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Alejanfran
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Andy
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Andres
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Megu
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Elecast
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Nazirdo
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Nikosapee
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Darturr
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Uadyet
+	- [ ] Replay Global
+	- [ ] Replay Local
+- ElBurrito
+	- [ ] Replay Global
+	- [ ] Replay Local
+### Bracket B
+- KilThrall
+	- [ ] Replay Global
+	- [ ] Replay Local
+- d-
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Francusco
+	- [ ] Replay Global
+	- [ ] Replay Local
+- enzito
+	- [ ] Replay Global
+	- [ ] Replay Local
+- el-mega-x
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Jiax
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Matt
+	- [ ] Replay Global
+	- [ ] Replay Local
+- arito
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Cachorrao
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Everlong
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Monsio
+	- [ ] Replay Global
+	- [ ] Replay Local
+- BenJaJa
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Xelnagah
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Sarieco
+	- [ ] Replay Global
+	- [ ] Replay Local
+- Ciruela
+	- [ ] Replay Global
+	- [ ] Replay Local
+- mantecota
+	- [ ] Replay Global
+	- [ ] Replay Local
