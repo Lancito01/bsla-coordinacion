@@ -1,3 +1,7 @@
+---
+title: Jugadores
+---
+
 # Replays
 Acá se anotarán las replays que utilizan los jugadores en los partidos. Servirá para recordar si los jugadores ya utilizaron sus replays.
 
